@@ -8,7 +8,7 @@ _I am a student in IS-1003, Unlocking Cyber._
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue)
 ![Autopsy](https://img.shields.io/badge/Autopsy-grey)
 ## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Windows_Hardening-FF6F00?logo=windows&logoColor=blue)
+![Windows Hardening](https://img.shields.io/badge/Windows_Hardening-blue)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
