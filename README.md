@@ -8,11 +8,11 @@ _I am a student in IS-1003, Unlocking Cyber._
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue)
 ![Autopsy](https://img.shields.io/badge/Autopsy-grey)
 ## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
+![Artificial Intelligence](https://img.shields.io/badge/Windows_Hardening-FF6F00?logo=windows&logoColor=blue)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/noah-woodley8168)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](www.linkedin.com/in/noah-woodley-358428447)
 
 _"Journey before destination."_
