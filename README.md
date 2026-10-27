@@ -6,6 +6,7 @@ _I am a student in IS-1003, Unlocking Cyber._
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-blue)
+![Autopsy](https://img.shields.io/badge/Autopsy-grey)
 ## 🎉 Interests
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
