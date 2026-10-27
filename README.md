@@ -1,6 +1,6 @@
-## 👏 Hi, I'm *Noah*
+## 👏 Hi, I'm Noah
 ##  About Me
-_I am a student in IS-1003, Unlocking Cyber._
+I am a student in IS-1003, Unlocking Cyber.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
